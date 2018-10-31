@@ -1,0 +1,31 @@
+<project>
+    <database>
+        <host>rm-bp1222991107b88x0public.mysql.rds.aliyuncs.com</host>
+        <user>yibao_test</user>
+        <password>@9aad8327f</password>
+        <db>yibao_test</db>
+    </database>
+    <cases>
+        <GetYTXAccountLoginStatus-getYTXAccountLoginStatus/>
+        <List-list/>
+        <GetConcernDoctorList-getConcernDoctorList/>
+        <GetOnLineCommodityDetail-getOnLineCommodityDetail/>
+        <Put-put/>
+        <Get-get/>
+        <GetYTXAccountLoginStatus-getYTXAccountLoginStatus/>
+        <InitForm-initForm/>
+        <GetPatientlist-getPatientlist/>
+        <Pre-pre/>
+        <CheckPatient-checkPatient/>
+        <Pre-pre/>
+        <GetAssistantAccount-getAssistantAccount/>
+        <StartProcess-startProcess/>
+        <GetYTXAccountLoginStatus-getYTXAccountLoginStatus/>
+        <SaveOrder-saveOrder/>
+        <GetImMsgTemplateInfo-getImMsgTemplateInfo/>
+        <InitIM-initIM/>
+        <GetConversationInfo-getConversationInfo/>
+        <GetHistoryMsgByMsgTime-getHistoryMsgByMsgTime/>
+        <ResetUnreadMsgCount-resetUnreadMsgCount/>
+    </cases>
+</project>

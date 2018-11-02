@@ -10,7 +10,7 @@ import json
 class Client(unittest.TestCase):
     DATA = {}
     DB = None
-    TOKEN = 'c187181d37defebf921f1c37597b2177'
+    TOKEN = 'aa905778625d4416062c855df13a1dc1'
 
     def __init__(self,url,method,type = 0):
         self.url = url
